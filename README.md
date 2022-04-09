@@ -9,20 +9,19 @@ How to use it:
 Upon execution of the program, you just need to leave it and continue with your work while it keeps running in the background seeking for a wake-up keyword.
 
 
-**Some of the packages included to built are:
-**
-playsound
-speech_recognition
-time
-translators
-SpeachRecognition
-datetime
+**Some of the packages included to built are:**
+playsoundv<br>
+speech_recognition<br>
+time<br>
+translators<br>
+SpeachRecognition<br>
+datetime<br>
 
 **Api used are following:**
-wolframalpha
-chucknorris
-yahoofinance
-coingecko_api
+wolframalpha <br> 
+chucknorris <br>
+yahoofinance <br>
+coingecko_api 
 
 **Technical requirements:**
 
